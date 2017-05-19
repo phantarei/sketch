@@ -1,0 +1,36 @@
+
+.wrapper{
+  width: 640px;
+  margin: 0 auto;
+  position: relative;
+}
+
+button{
+position: absolute;
+width: 120px;
+height: 40px;
+margin:0 auto;
+left:250px;
+top:-50px;
+border-radius: 4px;
+font-size: 15px;
+}
+
+#container{
+  width: 640px;
+  height:640px;
+  margin:100px auto;
+  overflow: hidden;
+}
+
+.box{
+  background-color:blue;
+  float:left;
+  border-style: solid;
+  border-color: white;
+  margin:0;
+}
+
+.trail{
+  background-color: green;
+}
